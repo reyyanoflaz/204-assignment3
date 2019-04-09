@@ -1,0 +1,4 @@
+boyfriend,college,father,girlfriend,man,nurse,person,professor,son,woman,young
+criminals,directors,fiction,film,lovely,movie,producers,science,stunning,thrilling,zombies
+
+
